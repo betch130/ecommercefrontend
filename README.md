@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
 
 ##For dependencies installation you guys have to use 
-'npm i' in your project 
+`npm i` in your project 
 
 ## Development server
 
